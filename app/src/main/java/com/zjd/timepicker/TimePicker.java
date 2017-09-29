@@ -550,5 +550,4 @@ public class TimePicker extends View {
             return new Date().getTime();
         }
     }
-
 }
